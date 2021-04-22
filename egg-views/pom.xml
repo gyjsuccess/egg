@@ -30,7 +30,7 @@
         <!-- spring版本号 -->
         <spring.version>3.2.4.RELEASE</spring.version>
         <!-- mybatis版本号 -->
-        <mybatis.version>3.2.4</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <!--jackson版本号-->
         <jackson.version>1.9.13</jackson.version>
     </properties>
